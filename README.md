@@ -9,8 +9,11 @@ I am Hasan a 3rd Year Informatics Student at Institut Teknologi Bandung. I like 
 [![CF](https://cp-logo.vercel.app/codeforces/m.hasan01)](https://codeforces.com/profile/m.hasan01)
 [![CodeChef](https://cp-logo.vercel.app/codechef/mhasan01)](https://www.codechef.com/users/mhasan01)
 [![TLX](https://img.shields.io/badge/TLX-mhasan01-yellow)](https://tlx.toki.id/profiles/mhasan01)
+[![Vjudge](https://img.shields.io/badge/Vjudge-mhasan01-red)](https://vjudge.net/user/mhasan01)  
 [![AtCoder](https://img.shields.io/badge/AtCoder-mhasan01-green)](https://atcoder.jp/users/mhasan01)
-
+[![HackerRank](https://img.shields.io/badge/HackerRank-mhasan01-brightgreen)](https://www.hackerrank.com/mhasan01)
+[![HackerEarth](https://img.shields.io/badge/HackerEarth-mhasan01-lightgrey)](https://www.hackerearth.com/@muhammad272)
+  
 </div>
   
 <p align="center">:mailbox: How to reach me: </p>
