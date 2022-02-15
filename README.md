@@ -4,7 +4,7 @@ I am Hasan, a Final Year Informatics Student at Institut Teknologi Bandung. I li
 
 :zap: Some of my Competitive Programming profiles:
 
-[![CF](https://img.shields.io/badge/CF-muhammadhasan01-blue)](https://codeforces.com/profile/muhammadhasan01)
+[![CodeForces](https://img.shields.io/badge/CodeForces-muhammadhasan01-blue)](https://codeforces.com/profile/muhammadhasan01)
 [![CodeChef](https://img.shields.io/badge/CodeChef-mhasan01-red)](https://www.codechef.com/users/mhasan01)
 [![TLX](https://img.shields.io/badge/TLX-mhasan01-yellow)](https://tlx.toki.id/profiles/mhasan01)
 [![AtCoder](https://img.shields.io/badge/AtCoder-mhasan01-green)](https://atcoder.jp/users/mhasan01)
