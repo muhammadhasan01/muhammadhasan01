@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Hasan, a Final Year Informatics Student at Institut Teknologi Bandung. I like doing programming and learning Software Engineering.
+I am Hasan, just an average person that likes software engineering and tries to be better every day, bit by bit.
 
 :zap: Some of my Competitive Programming profiles:
 
