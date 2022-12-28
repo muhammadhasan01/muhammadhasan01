@@ -6,8 +6,8 @@ I am Hasan, just an average person that likes software engineering and cats.
 
 [![CodeForces](https://img.shields.io/badge/CodeForces-muhammadhasan01-blue)](https://codeforces.com/profile/muhammadhasan01)
 [![CodeChef](https://img.shields.io/badge/CodeChef-mhasan01-red)](https://www.codechef.com/users/mhasan01)
+[![LeetCode](https://img.shields.io/badge/LeetCode-mhasan01-orange)](https://leetcode.com/mhasan01)
 [![TLX](https://img.shields.io/badge/TLX-mhasan01-yellow)](https://tlx.toki.id/profiles/mhasan01)
-[![AtCoder](https://img.shields.io/badge/AtCoder-mhasan01-green)](https://atcoder.jp/users/mhasan01)
 [![HackerRank](https://img.shields.io/badge/HackerRank-mhasan01-brightgreen)](https://www.hackerrank.com/mhasan01)
   
 :mailbox: How to reach me:
